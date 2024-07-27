@@ -1,2 +1,2 @@
 # flyte_demo
-Sample projects using flyte
+Sample classes with Flyte @task decorator
